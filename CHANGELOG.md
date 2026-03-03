@@ -1,3 +1,5 @@
+# [](https://github.com/stepagusev/git-extended/compare/v1.0.0...v) (2026-03-03)
+
 #  (2026-03-03)
 
 
